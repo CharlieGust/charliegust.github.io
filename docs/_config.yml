@@ -24,8 +24,8 @@ description: En kul sida
 domain: charliegust.github.io
 baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: https://charliegust.github.io
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: h3steen
+github_username:  charliegust
 
 # Build settings
 # theme: minima
