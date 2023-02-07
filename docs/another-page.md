@@ -1,9 +1,9 @@
 ---
 layout: default
-title: About
+title: Projects
 ---
 
-## Welcome to about page
+## Welcome to another page
 
 _yay under construction_ 
 

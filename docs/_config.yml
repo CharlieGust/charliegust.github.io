@@ -18,20 +18,28 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Challes!
+title: cWg
 email: charlie.gustavsson@gmail.com
-description: En kul sida
+description: seeeweeegeee
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" #https://charliegust.github.io
-twitter_username: jekyllrb
-github_username:  jekyll
+show_downloads: true
+twitter_username: h3steen
+github_username:  charliegust
+
+
+github:
+  zip_url: https://github.com/CharlieGust/charliegust.github.io/archive/refs/heads/main.zip
+  another_url: another value
 
 # Build settings
 # theme: minima
 # remote_theme: pages-themes/time-machine@v0.2.0
-theme: minima
+#theme: minima
+remote_theme: pages-themes/tactile@v0.2.0
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  #- jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
